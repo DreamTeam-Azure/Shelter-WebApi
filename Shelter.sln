@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shelter", "Shelter\Shelter.csproj", "{3CEB69D3-80AB-4157-B970-05B400ACBBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEB69D3-80AB-4157-B970-05B400ACBBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEB69D3-80AB-4157-B970-05B400ACBBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEB69D3-80AB-4157-B970-05B400ACBBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEB69D3-80AB-4157-B970-05B400ACBBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D347760-45A8-4C61-B981-563C0AB1094F}
+	EndGlobalSection
+EndGlobal
